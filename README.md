@@ -5,3 +5,16 @@
 [김성훈교수님 Github](https://github.com/hunkim/PyTorchZeroToAll)
 
 [한글블로그](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
+
+### instll pytorch
+
+```
+$ conda install -c peterjc123 pytorch
+```
+
+### jupyter lab home directory 
+
+```
+$ jupyter notebook --generate-config
+$ vi .jupyter/jupyter_notebook_config.py # #c.NotebookApp.notebook_dir = '' 
+```
