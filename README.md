@@ -6,6 +6,8 @@
 
 [한글블로그](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
 
+https://travis-ci.org/
+
 ### instll pytorch
 
 ```
