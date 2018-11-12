@@ -1,8 +1,10 @@
-#nonsml: digitalgenius/ubuntu-pytorch
-#varunagrawal/pytorch
-httplib2==0.10.3
-matplotlib==2.0.0
-numpy==1.13.3
-torch
-torchvision==0.1.9
-Unidecode==0.04.21
+cycler==0.10.0
+kiwisolver==1.0.1
+matplotlib==3.0.2
+numpy==1.15.4
+Pillow==5.3.0
+pyparsing==2.3.0
+python-dateutil==2.7.5
+six==1.11.0
+torch==0.4.1
+torchvision==0.2.1
