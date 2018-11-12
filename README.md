@@ -9,9 +9,12 @@
 https://travis-ci.org/
 
 ### instll pytorch
+https://pytorch.org/get-started/locally/
 
+### Python 3.7
 ```
-$ conda install -c peterjc123 pytorch
+$pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.1-cp37-cp37m-win_amd64.whl
+$pip3 install torchvision
 ```
 
 ### jupyter lab home directory 
